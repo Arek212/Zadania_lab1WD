@@ -37,8 +37,7 @@ import math
 # a %= b
 # print(a)
 # Zadanie4----------------------------------------------------
-# e = 3
-# a = pow(e,10)
+# a = exp(10)
 # b = pow(math.log(5+(math.sin(8)**2),10),1/6)
 # c = math.floor(3.55)
 # d = round(4.80)
